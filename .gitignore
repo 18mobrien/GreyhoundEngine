@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+
+# Reports (optional - we'll decide later)
+# reports/
+
+# Data (we'll discuss this once Archive 25 is added)
+# data/
